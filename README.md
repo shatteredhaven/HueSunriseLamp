@@ -11,10 +11,10 @@ The python code will turn itself off after one hour (45 minutes after the maximu
 
 The colors the lamp uses are:
 - orange
--yellow-orange
--yellow
--light yellow
--white
+- yellow-orange
+- yellow
+- light yellow
+- white
 
 
 Additional information and photos can be found here: FORTHCOMING
